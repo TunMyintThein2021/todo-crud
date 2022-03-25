@@ -17,7 +17,6 @@ const Header = () => {
           <Toolbar disableGutters>
             <Typography variant="h1">MUI LOGO</Typography>
             <MenuList>
-              <MenuItem><Link href="/login" underline="none" color="inherit">Login Form</Link></MenuItem>
               <MenuItem><Link href="/usertable" underline="none" color="inherit">User Table</Link></MenuItem>
               <MenuItem><Link href="/adduserform" underline="none" color="inherit">AddUserForm</Link></MenuItem>
             </MenuList>
